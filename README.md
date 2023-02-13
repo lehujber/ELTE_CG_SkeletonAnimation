@@ -4,3 +4,5 @@ Final project I created for my computer graphics course at ELTE. It does not com
 Looks for opengl pack at T:\\
 
 Written with opengl 4.6.
+
+A base project was used, my work is in MyApp.cpp and MyApp.h, and in the shader files.
